@@ -1,4 +1,4 @@
-# 702 Individual Assignment - Taha Sameer
+# Customer Analysis using SQL
 
 ## 📊 Overview
 This project aims to analyze various business data to provide insights into customer behavior, sales performance, and product trends. Using SQL queries, we address questions regarding customer purchase patterns, sales performance by stock group, supplier sales, and delivery methods. The project includes both **Descriptive Analysis** and **Exploratory Data Analysis (EDA)**, with insights aimed at improving business strategies.
