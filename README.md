@@ -30,3 +30,6 @@ This project aims to analyze various business data to provide insights into cust
 - **For Suppliers**: Engage more actively with underperforming suppliers and assess the products that have zero sales for strategic decision-making.
 - **For Delivery Methods**: Optimize the delivery methods used based on frequency and effectiveness in both sales and purchasing.
 - **For Product Management**: Prioritize stock groups and products with the highest profit margin and quantity growth.
+
+## ❗️Disclaimer
+This project was developed as part of academic coursework and is shared here for educational and profolio purpose. Unauthorised use, reproduction or distribution is not permitted and may violate academic integrity policies. 
